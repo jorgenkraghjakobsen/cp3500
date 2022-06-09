@@ -1,5 +1,7 @@
 # cp3500
 
+Nedtaeling :
+https://makecode.microbit.org/_4RvR2o2Jt1MR
 
 https://makecode.microbit.org/_J30ak2409Te5
 
